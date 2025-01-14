@@ -1,0 +1,24 @@
+#data for Fig. 3(a)
+#fitted exponent of subdiffusive pair motion in the FULL model, modelled as X_rms(tau) = A * (tau * t)^nu.
+
+#J_perp/t: spin coupling along the rungs of the ladder (in units of the hopping)
+#nu: fitted exponent.
+#ln(A): natural log of the prefactor A in the fit.
+
+J_perp/t nu   ln(A)
+
+2.0 0.4029594 1.2078849
+3.0 0.4026397 0.9887668
+4.0 0.3903044 0.8976796
+5.0 0.3743056 0.8672756
+6.0 0.3622157 0.8446431
+7.0 0.3476731 0.8542152
+8.0 0.3273464 0.8959173
+10.0 0.3201275 0.8551017
+12.0 0.3134424 0.8282088
+14.0 0.3197458 0.7400899
+16.0 0.3228171 0.6761806
+20.0 0.3177705 0.6276471
+40.0 0.3177049 0.4064564
+60.0 0.3189803 0.2685990
+80.0 0.3184905 0.1804253
